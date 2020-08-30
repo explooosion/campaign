@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/campaign/static/js/main.b3a0963f.chunk.js",
+    "main.js.map": "/campaign/static/js/main.b3a0963f.chunk.js.map",
+    "runtime-main.js": "/campaign/static/js/runtime-main.1f44209e.js",
+    "runtime-main.js.map": "/campaign/static/js/runtime-main.1f44209e.js.map",
+    "static/js/2.cb04ae0a.chunk.js": "/campaign/static/js/2.cb04ae0a.chunk.js",
+    "static/js/2.cb04ae0a.chunk.js.map": "/campaign/static/js/2.cb04ae0a.chunk.js.map",
+    "index.html": "/campaign/index.html",
+    "precache-manifest.c172a3fd746d7133305e05fdde8afbaf.js": "/campaign/precache-manifest.c172a3fd746d7133305e05fdde8afbaf.js",
+    "service-worker.js": "/campaign/service-worker.js",
+    "static/js/2.cb04ae0a.chunk.js.LICENSE.txt": "/campaign/static/js/2.cb04ae0a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f44209e.js",
+    "static/js/2.cb04ae0a.chunk.js",
+    "static/js/main.b3a0963f.chunk.js"
+  ]
+}
